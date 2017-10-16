@@ -1,0 +1,15 @@
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\bin\Debug\netcoreapp1.1\LeapYear.Tests.deps.json
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\bin\Debug\netcoreapp1.1\LeapYear.Tests.runtimeconfig.json
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\bin\Debug\netcoreapp1.1\LeapYear.Tests.runtimeconfig.dev.json
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\bin\Debug\netcoreapp1.1\LeapYear.Tests.dll
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\bin\Debug\netcoreapp1.1\LeapYear.Tests.pdb
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\bin\Debug\netcoreapp1.1\LeapYear.dll
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\bin\Debug\netcoreapp1.1\LeapYear.pdb
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\obj\Debug\netcoreapp1.1\LeapYear.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\obj\Debug\netcoreapp1.1\LeapYear.Tests.AssemblyInfoInputs.cache
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\obj\Debug\netcoreapp1.1\LeapYear.Tests.AssemblyInfo.cs
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\obj\Debug\netcoreapp1.1\LeapYear.Tests.dll
+C:\Users\Ebby\desktop\leapyear-master\LeapYear.Solution\LeapYear.Tests\obj\Debug\netcoreapp1.1\LeapYear.Tests.pdb
